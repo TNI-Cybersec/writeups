@@ -4,3 +4,6 @@
 [submodule "STDiO2022"]
 	path = STDiO2022
 	url = https://github.com/TNI-Cybersec/STDiO_CTF_2022
+[submodule "KPMG2021"]
+	path = KPMG2021
+	url = https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups
