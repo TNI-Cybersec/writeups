@@ -1,3 +1,5 @@
+<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450" />
+
 ## Writeups
 
 - [SEC Playground Challenges Compilation](SECPlayground/README.md)
