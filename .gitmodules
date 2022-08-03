@@ -1,3 +1,6 @@
 [submodule "SECPlayground"]
 	path = SECPlayground
 	url = https://github.com/TNI-Cybersec/SECPlayground-Writeups
+[submodule "STDiO2022"]
+	path = STDiO2022
+	url = https://github.com/TNI-Cybersec/STDiO_CTF_2022
