@@ -1,5 +1,4 @@
-<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450"></img>
-<p align="center">
+<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450" />
 
 # SEC Playground Challenges Compilation Writeups
 SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI-Cybersec/)
