@@ -1,6 +1,6 @@
 title: TNI Cybersec
 logo: /assets/img/logo.png
-description: CTF writeups collection by @TNI-Cybersec
+description: CTF writeups collection by <a href="https://tni-cybersec.github.io/">@TNI-Cybersec</a>
 markdown: kramdown
 theme: jekyll-theme-hacker
 plugins:
