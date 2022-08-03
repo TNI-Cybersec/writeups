@@ -1,0 +1,3 @@
+[submodule "SECPlayground"]
+	path = SECPlayground
+	url = https://github.com/TNI-Cybersec/SECPlayground-Writeups
