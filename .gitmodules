@@ -10,3 +10,6 @@
 [submodule "NCSA2021"]
 	path = NCSA2021
 	url = https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up
+[submodule "TCTS2021"]
+	path = TCTS2021
+	url = https://github.com/TNI-Cybersec/Thailand_Cyber_Top_Students_2021
