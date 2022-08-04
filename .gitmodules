@@ -7,3 +7,6 @@
 [submodule "KPMG2021"]
 	path = KPMG2021
 	url = https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups
+[submodule "NCSA2021"]
+	path = NCSA2021
+	url = https://github.com/TNI-Cybersec/NCSA_Senior_Write_Up
