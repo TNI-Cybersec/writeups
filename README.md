@@ -5,6 +5,8 @@
 - [SECPlayground Challenges Compilation](SECPlayground/README.md)
 - [STDiO CTF Competition 2022](STDiO2022/README.md)
 - [KPMG Cyber Security Challenge 2021](KPMG2021/README.md)
+- [NCSA - Thailand Cyber Top Talent 2021](NCSA2021/README.md)
+- [Thailand Cyber Top Students 2021](TCTS2021/README.md)
 - more coming soon...
 
 ## 💬 Connect with us
