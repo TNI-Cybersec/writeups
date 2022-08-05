@@ -6,6 +6,4 @@ theme: minima
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
-  - jekyll-feed
-  - jekyll-last-modified-at
 
