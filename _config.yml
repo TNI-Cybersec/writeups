@@ -3,6 +3,8 @@ logo: /assets/img/logo.png
 description: CTF writeups collection by <a href="https://tni-cybersec.github.io/">@TNI-Cybersec</a>
 markdown: kramdown
 theme: millidocs-dark
+  syntax_highlighter_opts:
+            disable : true
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
