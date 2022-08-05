@@ -1,4 +1,4 @@
-<img align="right" src="assets/img/logo.png" width="450" />
+<!-- <img align="right" src="assets/img/logo.png" width="450" /> -->
 
 ## 👨‍💻 Writeups
 
