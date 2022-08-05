@@ -1,3 +1,4 @@
+![cover](https://raw.githubusercontent.com/TNI-Cybersec/tni-cybersec.github.io/main/img/CyberPic.jpg)
 <!-- <img align="right" src="assets/img/logo.png" width="450" /> -->
 
 ## 👨‍💻 Writeups
