@@ -13,3 +13,9 @@
 [submodule "TCTS2021"]
 	path = TCTS2021
 	url = https://github.com/TNI-Cybersec/Thailand_Cyber_Top_Students_2021
+[submodule "KPMG-Cyber-Security-Challenge-2022-Writeups"]
+	path = KPMG-Cyber-Security-Challenge-2022-Writeups
+	url = https://github.com/TNI-Cybersec/KPMG-Cyber-Security-Challenge-2022-Writeups
+[submodule "KPMG2022"]
+	path = KPMG2022
+	url = https://github.com/TNI-Cybersec/KPMG-Cyber-Security-Challenge-2022-Writeups
